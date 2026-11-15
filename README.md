@@ -1,3 +1,29 @@
+# Xget
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+超高性能、安全的一体化开发者资源加速引擎。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- renoise-banner -->
 <p align="center">
   <a href="https://renoise.ai/plugin?utm_medium=github&utm_source=xixu">
